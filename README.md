@@ -143,7 +143,7 @@ Because there are many cases to code, focus on the following classes: `is-primar
 
 If you need any help, you can have a look how to take the content between an opening tag and a closing tag: [Children in JSX](https://reactjs.org/docs/jsx-in-depth.html#children-in-jsx)
 
-Change your `Navbar` component so it uses the `CoolButton` component for the "Login" and "Signup" buttons.
+Change your `Navbar` component so it uses the `CoolButton` comnent for the "Login" and "Signup"po buttons.
 
 #### Bonus
 

@@ -1,0 +1,13 @@
+.signup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: bolder;
+    margin: 30px;
+}
